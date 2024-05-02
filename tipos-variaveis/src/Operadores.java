@@ -29,13 +29,58 @@ public class Operadores {
 
       //INCREMENTO e DECREMENTO 
 
-      int numero = 3;
-      numero ++; //que é abreviacao de-> numero + 1
+      // int numero = 3;
+      // numero ++; //que é abreviacao de-> numero + 1
 
-      // do mesmo jeito posso quando quero decrementar 
-      numero --;
+      // // do mesmo jeito posso quando quero decrementar 
+      // numero --;
      
-      System.out.println(numero);
+      // System.out.println(numero);
+
+
+      //OPERADORES TERNARIOS
+      int a, b;
+      a = 2;
+      b = 6;
+
+
+      // UMA DAS MANEIRAS DE SER FEITO
+      // String resultado = "";
+      // if (a==b)
+      // resultado = "verdadeiro";
+      // else
+      // resultado = "falso";
+
+      //MAS PODE SER SUBSTITUIDO POR
+      // String resultado = a ==b ? "verdadeiro" : "falso";
+
+
+      // System.out.println(resultado);
+
+
+
+
+      //RELACIONAIS
+
+    //   int numero1 = 1;
+    //   int numero2 = 2;
+
+    //   boolean simNao = numero1 == numero2;
+
+    //   System.out.println("O numero um é igual ao numero dois? " + simNao);
+
+    // simNao = numero1 != numero2;
+
+    //   System.out.println("O numero um é diferente ao numero dois? " + simNao);
+
+
+
+    // OPERADORES LÓGICOS
+    
+     
+
+
+
     
   }
   
