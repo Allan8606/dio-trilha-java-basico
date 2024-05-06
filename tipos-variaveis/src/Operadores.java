@@ -39,9 +39,9 @@ public class Operadores {
 
 
       //OPERADORES TERNARIOS
-      int a, b;
-      a = 2;
-      b = 6;
+      // int a, b;
+      // a = 2;
+      // b = 6;
 
 
       // UMA DAS MANEIRAS DE SER FEITO
@@ -76,6 +76,10 @@ public class Operadores {
 
 
     // OPERADORES LÓGICOS
+
+
+
+    // MÉTODOS
     
      
 
